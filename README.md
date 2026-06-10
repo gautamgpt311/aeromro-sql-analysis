@@ -100,4 +100,4 @@ aeromro-sql-analysis/
 
 ## Related Project
 
-📊 [AeroMRO Analytics — Power BI Dashboard](https://github.com/gautamgpt311/aeromro-analytics-powerbi)
+📊 [AeroMRO Analytics — Power BI Dashboard](https://github.com/gautamgpt311/aeromro-analytics-powerbi-dashboard)
